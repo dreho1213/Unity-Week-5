@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Week 5 Internal Asset Creation and Lighting",
+"dataUrl": "Week 5 Unity Terrian Scene.data.unityweb",
+"asmCodeUrl": "Week 5 Unity Terrian Scene.asm.code.unityweb",
+"asmMemoryUrl": "Week 5 Unity Terrian Scene.asm.memory.unityweb",
+"asmFrameworkUrl": "Week 5 Unity Terrian Scene.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
